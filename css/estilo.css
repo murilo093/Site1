@@ -1,6 +1,7 @@
 body{
 	font-family: 'Roboto', sans-serif;
 	color: #333;
+	margin: 0px;
 }
 a:link, a:active, a:visited{
 	color: #315e8a;
